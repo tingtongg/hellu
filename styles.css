@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Marina Run 2019</title>
+
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+  <div id="main">
+
+      
+      <div id="menubar">
+        <ul id="menu">
+         
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="examples.html">Race Information</a></li>
+          <li><a href="page.html">Register</a></li>
+          <li><a href="another_page.html">Race Results</a></li>
+          <li><a href="contact.html">FAQ</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="content_header"></div>
+    <div id="site_content">
+      <div id="banner"></div>
+	  <div id="sidebar_container">
+        <div class="sidebar">
+          <div class="sidebar_top"></div>
+          <div class="sidebar_item">
+          
+             <h4>Register NOW</h4>
+           
+<h4>Marina Run 2019</h4>
+
+<p style="color:Black">
+<a href="https://www.digitalracesolutions.com.sg/cgi-bin/registration/marinarun2019/prereg.cgi">Find Out More</a>
+</p>
+          </div>
+          
+
+   
+      </div>
+      <div id="content">
+        
+    
+<h1>Event Details</h1>
+           
+<h2>Marina Run 2019</h2>
+
+<p style="color:Black">
+<b>DATE:</b> 23 February 2019 (Saturday)
+<br>
+<b>TIME:</b> 5:00pm (5km Fun Run) / 6:00pm (21km Half Marathon & 30km) / 6:30pm (10km)
+<br>
+<b>VENUE:</b> Gardens by the Bay East (Next to Passion Wave @ Marina)
+<br>
+<br>
+
+<a href="https://www.marinarun.com.sg/">Click Here To Find Out More About The Race</a>
+</p>
+
+<h2>Race Route</h2>
+ 
+<p> Gardens by the Bay East / Marina East Drive / East Coast Park / Gardens by the BayEast / Tanjong Rhu Promenade / Geylang Park Connector. (Race route is not confirmed and subjectto change). Kick start your new year with the first 5km Fun Run, 10km & 21km Half Marathon and 30km of 2019! The Herbalife Marina Run feature all of the beauty and grandeur the MarinaBay area has to offer. Your unforgettable journey will take you from the waterfront communities,over the Marina Barrage, past iconic landmarks and through beautiful Gardens. Whether you're anadvanced runner or just looking for a scenic jog, The Herbalife Marina Run promises a greattime for participants of all speeds. All finisher of Herbalife Marina Run 10km, 21km and 30km will receive a Newton running singlet,finisher medal and Newton finisher T-shirt. 5km Fun Run participants will each receive an event T-shirt, water pistol and a finisher medal.
+</p>        
+
+
+
+
+ <h2>Browser Compatibility</h2>
+        <p>This template has been tested in the following browsers:</p>
+     
+      </div>
+    </div>
+
+
+    <div id="content_footer"></div>
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="examples.html">Race Information</a> | <a href="page.html">Register</a> | <a href="another_page.html">Race Results</a> | <a href="contact.html">FAQ</a></p>
+    </div>
+  </div>
+</body>
+</html>
